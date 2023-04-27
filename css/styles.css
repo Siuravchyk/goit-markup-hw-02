@@ -48,12 +48,14 @@ body {
 .menu-link:focus {
     color: #404BBF;
 }
+address {
+    font-style: normal;
+}
 .contact {
     font-style:normal;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
-        font-style: normal;
         /* identical to box height, or 150% */
     
         letter-spacing: 0.02em;
@@ -63,7 +65,7 @@ body {
         color: #434455;
 }
 .contact:hover,
-.contsct:focus {
+.contact:focus {
     color: #404BBF;
 }
 .title-section {
@@ -124,6 +126,9 @@ body {
     background: #404BBF;
     color: #FFFFFF;
 }
+.about-company-title {
+    color: #2E2F42;
+}
 .advantages {
     font-weight: 500;
         font-size: 20px;
@@ -133,6 +138,12 @@ body {
         letter-spacing: 0.02em;
 }
 .description-advantages {
+    font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        /* or 150% */
+    
+        letter-spacing: 0.02em;
     color: #434455;
 }
 .our-works-title {
@@ -144,6 +155,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: #2e2f42;
 }
 .our-team {
     background: #F4F4FD;
@@ -157,6 +169,7 @@ body {
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: #2E2F42;
 }
 .our-team-item {
     background-color: #FFFFFF;
@@ -174,6 +187,7 @@ body {
     
         text-align: center;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .description-person {
     font-weight: 400;
