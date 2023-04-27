@@ -127,7 +127,7 @@ address {
     color: #FFFFFF;
 }
 .about-company-title {
-    color: #2E2F42;
+    color: #2e2f42;
 }
 .advantages {
     font-weight: 500;
@@ -136,6 +136,7 @@ address {
         /* identical to box height, or 120% */
     
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .description-advantages {
     font-weight: 400;
