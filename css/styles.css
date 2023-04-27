@@ -243,6 +243,7 @@ address {
         /* identical to box height, or 120% */
     
         letter-spacing: 0.02em;
+        color: #2e2f42;
 }
 .description-subtitle {
     font-weight: 400;
